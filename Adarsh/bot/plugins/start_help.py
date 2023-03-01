@@ -232,7 +232,7 @@ async def about_handler(bot, message):
 ┃
 ┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/Sky_Movies_Xbot'>Professor</a></b>
 ┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/PeterX_67>Peter</a></b>
-┣⪼<b>channel : <a href='https://t.me/+9vLLNHJ6tzRhZWM1'>channel</a></b>
+┣⪼<b>channel : <a href='https://t.me/+53jKnQfWG84wNzdl'>channel</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
