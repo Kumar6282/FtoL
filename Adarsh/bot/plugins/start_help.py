@@ -60,9 +60,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ 𝙼𝙳𝙸𝚂𝙺 𝚂𝙴𝙰𝚁𝙲𝙷 𝙱𝙾𝚃 ⚡", url="https://t.me/Mdisk_Link_Search_V2_bot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/movie_on1")],
-                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/Tg_Movie_Files_bot")]
+                    [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/movie_on1")],
+                    [InlineKeyboardButton("💌 Join Channel 💌", url=""https://t.me/+2VHb9Ps55A9kY2Rl)]
                 ]
             ),
             
@@ -123,7 +123,7 @@ async def start(b, m):
                                      Var.PORT,
                                      get_msg.id)
 
-        msg_text = "**ᴛᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡\n\n📧 ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n💌 ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ ♻️\n\n@movie_a1**"
+        msg_text = "**ᴛᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡\n\n📧 ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n💌 ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ ♻️\n\n@Tamilmob_14**"
         await m.reply_photo(
             photo="https://te.legra.ph/file/761c78ced1b158a8f9440.jpg",
             caption=msg_text.format(file_name, file_size, stream_link),
@@ -178,9 +178,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝙼𝙳𝙸𝚂𝙺 𝚂𝙴𝙰𝚁𝙲𝙷 𝙱𝙾𝚃 ⚡", url="https://t.me/Mdisk_Link_Search_V2_bot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
-                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/movie_on1")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/Tg_Movie_Files_bot")]
+                [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
+                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/movie_on1")],
+                [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/+2VHb9Ps55A9kY2Rl")]
             ]
         )
     )
@@ -225,27 +225,27 @@ async def about_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_photo(
-            photo="https://te.legra.ph/file/761c78ced1b158a8f9440.jpg",
+            photo="https://telegra.ph/file/fdc4d14711952d96c6c3a.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/https://t.me/Tg_Movie_Files_bot'>ʙʟᴀᴄᴋ ᴀᴅᴀᴍ</a></b>
-┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/R_KOHLI'>ʀᴀᴠɪ ᴋᴏʜʟɪ</a></b>
+┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/https://t.me/Sky_Movies_Xbot'>Professor</a></b>
+┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/PeterX_67>Peter</a></b>
 ┣⪼<b>ᴍᴅɪsᴋ ʙᴏᴛ : <a href='https://t.me/Mdisk_Link_Search_V2_bot'>ᴍᴅɪsᴋ sᴇᴀʀᴄʜ ʙᴏᴛ</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/Dkmovie/DK_Filestreambot'>ᴅᴋᴍᴏᴠɪᴇ</a></b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/movie_on1'>𝙼𝚘𝚟𝚒𝚎_𝚊1</a></b>
+┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='@PeterX_67'>Peter</a></b>
+┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/+2VHb9Ps55A9kY2Rl'>Tamilmob_14</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/movie_on1"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/Tg_Movie_Files_bot")]
+                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+2VHb9Ps55A9kY2Rl"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1")],
+                [InlineKeyboardButton("💌 Join Channel 💌 ", url="https://t.me/+jVv0lZLqO6dkZmZl")]
             ]
         )
     )
