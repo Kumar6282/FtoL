@@ -232,12 +232,12 @@ async def about_handler(bot, message):
 ┃
 ┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/https://t.me/Sky_Movies_Xbot'>Professor</a></b>
 ┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/PeterX_67>Peter</a></b>
-┣⪼<b>ᴍᴅɪsᴋ ʙᴏᴛ : <a href='https://t.me/Mdisk_Link_Search_V2_bot'>ᴍᴅɪsᴋ sᴇᴀʀᴄʜ ʙᴏᴛ</a></b>
+┣⪼<b>channel : <a href='https://t.me/+9vLLNHJ6tzRhZWM1'>channel</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='@PeterX_67'>Peter</a></b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/+2VHb9Ps55A9kY2Rl'>Tamilmob_14</a></b>
+┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='http://t.me/PeterX_67'>Peter</a></b>
+┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/+p6Jy46py_81hOTJl'>Tamilmob_14</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
