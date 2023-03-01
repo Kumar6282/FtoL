@@ -60,8 +60,8 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/movie_on1")],
+                    [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/Sky_MoviesZ_HD")],
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+jVv0lZLqO6dkZmZl")],
                     [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/Sky_MoviesZ_HD")]
                 ]
             ),
@@ -178,8 +178,8 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
-                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/movie_on1")],
+                [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/Sky_MoviesZ_HD")],
+                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/+jVv0lZLqO6dkZmZl")],
                 [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/Sky_MoviesZ_HD")]
             ]
         )
@@ -230,7 +230,7 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/https://t.me/Sky_Movies_Xbot'>Professor</a></b>
+┣⪼<b>ᴍᴏᴠɪᴇ ʙᴏᴛ : <a href='https://t.me/Sky_Movies_Xbot'>Professor</a></b>
 ┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/PeterX_67>Peter</a></b>
 ┣⪼<b>channel : <a href='https://t.me/+9vLLNHJ6tzRhZWM1'>channel</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
@@ -244,7 +244,7 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+2VHb9Ps55A9kY2Rl"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1")],
+                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 Bot ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl")],
                 [InlineKeyboardButton("💌 Join Channel 💌 ", url="https://t.me/Sky_MoviesZ_HD")]
             ]
         )
