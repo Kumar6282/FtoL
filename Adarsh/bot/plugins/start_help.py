@@ -62,7 +62,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
                     [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/movie_on1")],
-                    [InlineKeyboardButton("💌 Join Channel 💌", url=""https://t.me/+2VHb9Ps55A9kY2Rl)]
+                    [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/Sky_MoviesZ_HD")]
                 ]
             ),
             
@@ -180,7 +180,7 @@ async def help_handler(bot, message):
             [
                 [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/movie_a1")],
                 [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/movie_on1")],
-                [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/+2VHb9Ps55A9kY2Rl")]
+                [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/Sky_MoviesZ_HD")]
             ]
         )
     )
@@ -245,7 +245,7 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+2VHb9Ps55A9kY2Rl"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/movie_a1")],
-                [InlineKeyboardButton("💌 Join Channel 💌 ", url="https://t.me/+jVv0lZLqO6dkZmZl")]
+                [InlineKeyboardButton("💌 Join Channel 💌 ", url="https://t.me/Sky_MoviesZ_HD")]
             ]
         )
     )
