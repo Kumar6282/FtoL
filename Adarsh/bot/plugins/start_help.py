@@ -61,7 +61,7 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/Sky_MoviesZ_HD")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎 𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+jVv0lZLqO6dkZmZl")],
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+VWn-6PmMQukyMDBl"), InlineKeyboardButton("💎 MOVIES GROUP  💎", url="https://t.me/+VWn-6PmMQukyMDBl")],
                     [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/Sky_MoviesZ_HD")]
                 ]
             ),
@@ -179,7 +179,7 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("⚡ Movies 𝙱𝙾𝚃 ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("⚡ 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⚡", url="https://t.me/Sky_MoviesZ_HD")],
-                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl"), InlineKeyboardButton("💎𝙶𝚁𝙾𝚄𝙿 𝙼𝙾𝚅𝙸𝙴𝚂💎", url="https://t.me/+jVv0lZLqO6dkZmZl")],
+                [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+VWn-6PmMQukyMDBl"), InlineKeyboardButton("💎 MOVIES GROUP 💎", url="https://t.me/+VWn-6PmMQukyMDBl")],
                 [InlineKeyboardButton("💌 Join Channel 💌", url="https://t.me/Sky_MoviesZ_HD")]
             ]
         )
@@ -237,14 +237,14 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='http://t.me/PeterX_67'>Peter</a></b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/+p6Jy46py_81hOTJl'>Tamilmob_14</a></b>
+┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/+VWn-6PmMQukyMDBl'>Tamilmob_14</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 Bot ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+jVv0lZLqO6dkZmZl")],
+                [InlineKeyboardButton("⚡ 𝙼𝙾𝚅𝙸𝙴 Bot ⚡", url="https://t.me/Sky_Movies_Xbot"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+VWn-6PmMQukyMDBl")],
                 [InlineKeyboardButton("💌 Join Channel 💌 ", url="https://t.me/Sky_MoviesZ_HD")]
             ]
         )
