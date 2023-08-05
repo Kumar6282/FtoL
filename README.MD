@@ -5,7 +5,7 @@
 </p>
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kumar6282/filel)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kumar6282/FtoL)
 
   <a href="https://t.me/Sky_MoviesZ_HD">
     <img src="https://telegra.ph/file/fdc4d14711952d96c6c3a.jpg">
